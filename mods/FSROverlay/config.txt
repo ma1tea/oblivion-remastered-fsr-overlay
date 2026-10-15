@@ -1,0 +1,14 @@
+-- FSROverlay config
+--
+-- Which FSR quality preset the hotkey/console command forces and reports.
+-- Put exactly ONE of the following words on the first non-comment line
+-- below (case-insensitive):
+--
+--   Quality
+--   Balanced
+--   Performance
+--   UltraPerformance
+--
+-- If this file is missing, or the value isn't one of the above, the mod
+-- falls back to Quality and logs a warning in UE4SS.log.
+Quality
